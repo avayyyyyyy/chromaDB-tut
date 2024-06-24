@@ -8,8 +8,6 @@ This project implements a FAQ chatbot using ChromaDB for storing and querying em
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Error Handling](#error-handling)
-- [License](#license)
 
 ## Prerequisites
 
